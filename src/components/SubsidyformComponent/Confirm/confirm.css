@@ -1,0 +1,31 @@
+.form{
+    padding: 20vh 0 0 0;
+    max-width: 300px;
+  }
+  
+  .form.item{
+    margin: auto;
+  }
+  
+  .container{
+    margin: auto;
+    max-width: 100vh;
+  }
+  
+  .inline{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .continue{
+    background-color: #4CAF50;
+  }
+
+  .back{
+      padding: 0 30px 0 30px;
+      background-color: rgb(0, 195, 255);
+  }
+  
+  h2{
+    color: #4CAF50;
+  }

@@ -1,0 +1,36 @@
+.contact_1 {
+  text-align: center;
+  padding-top: 5vh;
+  color: white;
+}
+.contact_head {
+  font-size: 2.5em;
+  font-weight: 800;
+  margin-bottom: 20px;
+  color: white;
+}
+.contact_subhead {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: white;
+}
+.contact {
+  background: #2c5d3f;
+  padding-bottom: 5vh;
+}
+.about_content p {
+  color: white;
+  margin-bottom: 1px;
+}
+.about_content {
+  /* border-right: 1px solid white; */
+  padding-right: 3vh;
+}
+.about_logo i {
+  color: white;
+  font-size: 4vh;
+  padding-right: 1vh;
+}
+.about_logo {
+  /* border-right: 1px solid white; */
+}

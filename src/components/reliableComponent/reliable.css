@@ -1,0 +1,31 @@
+.reliable {
+  text-align: center;
+  color: white;
+}
+.rel1 {
+  background: #00611c;
+  min-height: 50vh;
+  font-size: 2.5em;
+  padding-top: 15vh;
+}
+.rel1 i {
+  font-size: 2.5em;
+}
+.rel2 i {
+  font-size: 2.5em;
+}
+.rel3 i {
+  font-size: 2.5em;
+}
+.rel2 {
+  padding-top: 15vh;
+  background: #4bb74c;
+  min-height: 50vh;
+  font-size: 2.5em;
+}
+.rel3 {
+  background: #8cdd81;
+  min-height: 50vh;
+  font-size: 2.5em;
+  padding-top: 15vh;
+}

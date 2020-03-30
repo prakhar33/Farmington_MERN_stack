@@ -1,0 +1,13 @@
+.services_main {
+  background: #edeceb;
+  padding-top: 15vh;
+  padding-bottom: 10vh;
+}
+.ant-card-meta-title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+}
+.ant-card-body {
+  padding: 12px;
+}
